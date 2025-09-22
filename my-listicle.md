@@ -3,7 +3,7 @@
 - [MD Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 - [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 - [Markdown Tutorial](https://www.markdowntutorial.com/)
-## Copyright
+## Intellectual Property
 - [Creative Commons License Chooser](https://creativecommons.org/chooser/)
 - [Finding Public Domain & Creative Commons Media](https://guides.library.harvard.edu/law/pd-cc)
 - [Trademark, patent, or copyright explanation](https://www.uspto.gov/trademarks/basics/trademark-patent-copyright)
