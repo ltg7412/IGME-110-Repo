@@ -8,8 +8,11 @@
 *italicized text*
 ***bold italic***
 > blockquote
+
 > blockquote
+
 space
+
 > blockquote
 
 Ordered List
@@ -17,7 +20,8 @@ Ordered List
 2. Second item
 3. Third item
 
-Unordered List	- First item
+Unordered List
+- First item
 - Second item
 - Third item
 
